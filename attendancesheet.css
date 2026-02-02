@@ -1,0 +1,51 @@
+body {
+     font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}
+h1 {
+    text-align: center;
+    color: brown;
+    margin-top: 30px;
+    margin-bottom: 1px;
+}
+.name div {
+    display: flex;
+    padding: 200px;
+    margin-top: 450px;
+}
+.date div {
+    display: flex;
+    padding: 100px;
+    margin-top: 10px;
+}
+.container div {
+    display: flex;
+    padding: 10px;
+    margin-top: 1px;
+}
+form {
+    display: block;
+    border: solid;
+    border-color: beige;
+    width: 300px;
+    margin: 300px;
+    padding: 50px;
+    margin-top: 100px;
+    margin-left: 550px;
+}
+label {
+    margin-right: 10px;
+    margin-top: 10px;
+}
+input {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+button {
+    background-color: beige;
+    cursor: pointer;
+    color: coral;
+}
+button:hover {
+    background-color: rgb(8, 178, 225);
+}
